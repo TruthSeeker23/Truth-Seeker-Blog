@@ -1,0 +1,34 @@
+#blogtitle{
+font: small-caps bold 60px/1 sans-serif;
+color: goldenrod; 
+
+}
+body{
+    background-color:black;
+}
+h4{
+    color: goldenrod;
+}
+h3{
+    color: goldenrod;
+}
+span{
+    border-style: solid;
+    border-color: white
+}
+footer{
+border-top-style: solid;
+border-top-color: white;
+}
+img{
+    height: 300px;
+    width: 200px;
+}
+.sections{
+    display: inline-block;
+    border-style: solid;
+    border-color: white;
+    width: fit-content;
+    block-size: fit-content;
+    margin: 20px;
+}
